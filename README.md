@@ -1,4 +1,4 @@
-# prueba
+# Introduccion a GIT
 
 ## Sección 1
 
