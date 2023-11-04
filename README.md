@@ -19,9 +19,6 @@ texto de prueba
 
 
 |Id | Profession | Age |
-
 |-- | -- | -- |
-
 |1 | Statistician | 25 |
-
 |2 | Writer | 32 |
