@@ -22,3 +22,13 @@ texto de prueba
 |-- | -- | -- |
 |1 | Statistician | 25 |
 |2 | Writer | 32 |
+
+## enlace de imagenes
+
+el enlance para este repositorio es {mi repositorio}(https://github.com/JhosseMillones/prueba)
+
+ahora agrego una imagen de un leon : 
+
+
+![git[(figura/lion.jpg)]
+
