@@ -1,3 +1,6 @@
+# Mis archivos ignorados
+/data
+
 # History files
 .Rhistory
 .Rapp.history
