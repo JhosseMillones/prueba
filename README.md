@@ -30,5 +30,5 @@ el enlance para este repositorio es {mi repositorio}(https://github.com/JhosseMi
 ahora agrego una imagen de un leon : 
 
 
-![git[(figura/lion.jpg)]
+![git[(figura/lion.jpg)]]
 
